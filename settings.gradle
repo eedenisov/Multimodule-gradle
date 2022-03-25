@@ -1,0 +1,5 @@
+rootProject.name = 'Multimodule-gradle'
+include 'db'
+include 'api'
+include 'service'
+
